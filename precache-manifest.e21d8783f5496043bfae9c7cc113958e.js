@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f057bec7a0f82b50ea2202d5370a76c",
+    "revision": "7315a32af2cdbe3efc174223d7ef3e3b",
     "url": "/ecommerce/index.html"
   },
   {
-    "revision": "efd4d7815b11b27c515d",
-    "url": "/ecommerce/static/css/main.7178986c.chunk.css"
+    "revision": "1f2f73d8c04e10bb9c84",
+    "url": "/ecommerce/static/css/main.0c9de73e.chunk.css"
   },
   {
-    "revision": "94f5583930b527e1e0e7",
-    "url": "/ecommerce/static/js/2.a56c24a7.chunk.js"
+    "revision": "ed81aef937ad38146d10",
+    "url": "/ecommerce/static/js/2.49733fee.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/ecommerce/static/js/2.a56c24a7.chunk.js.LICENSE.txt"
+    "url": "/ecommerce/static/js/2.49733fee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "efd4d7815b11b27c515d",
-    "url": "/ecommerce/static/js/main.6e17dbb6.chunk.js"
+    "revision": "1f2f73d8c04e10bb9c84",
+    "url": "/ecommerce/static/js/main.81544762.chunk.js"
   },
   {
     "revision": "831a87ab3375c7c427c2",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ecommerce/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
-    "revision": "912ec66d7572ff821749319396470bde",
-    "url": "/ecommerce/static/media/fontawesome-webfont.912ec66d.svg"
+    "revision": "acf3dcb7ff752b5296ca23ba2c7c2606",
+    "url": "/ecommerce/static/media/fontawesome-webfont.acf3dcb7.svg"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
